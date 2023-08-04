@@ -56,6 +56,8 @@ Browser specific download locations are located below:
 
 Click the following: [Add Web Annoyances Ultralist to Custom uBlock Origin Filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt&title=Web%20Annoyances%20Ultralist).
 
+This fork: [Add Web Annoyances Ultralist to Custom uBlock Origin Filters (fork)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/FelisDiligens/webannoyances/master/ultralist.txt&title=Web%20Annoyances%20Ultralist).
+
 ### Installation Notes
 
 After clicking the Link above, a warning box will appear asking you to confirm the installation - Click 'OK' to add the list to your Custom Filter Lists.
