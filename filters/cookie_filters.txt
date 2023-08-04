@@ -523,8 +523,6 @@ wallstreetmojo.com###cookie-block
 weather.com##[id^="WxuPrivacyDataNotice-main-"], [id^="WxuPrivacyDataNotice-meta"], [id^="main-PrivacyDataNotice"]
 whoisxmlapi.com##.cookie-message-block
 wolframalpha.com##._Sjp9:has-text(/cookies/)
-www.google.com###js-cookie-banner
-youtube.com###consent-bump:remove()
 yubico.com##.cookie-pop
 zdf.de##.js-rb-attached.m-open.x-cookies.b-system-dialog
 ||gdpr-tcfv2.sp-prod.net^

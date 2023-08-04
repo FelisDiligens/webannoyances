@@ -16,7 +16,4 @@ mobile.twitter.com#@##react-root > .rn-ipm5af.rn-zchlnj.rn-u8s1d.rn-1d2f490, ._3
 mobile.twitter.com#@#header[role="banner"] > div[style*="height"]
 mobile.twitter.com#@#header[role="banner"] > div[style]
 support.google.com#@#.fixed-sidebar-container:not([style*="left:"]):style(position: absolute !important; top: 0 !important;)
-www.google.com##.jhFIre
-www.google.com#@#.Lj9fsd:style(position: absolute !important; top: 20px !important; padding: 6px 0 0 0 !important; box-shadow: none !important;)
-www.google.com#@#header.Lj9fsd:style(position: absolute !important; top: 10px !important; box-shadow: none !important;)
 !#endif

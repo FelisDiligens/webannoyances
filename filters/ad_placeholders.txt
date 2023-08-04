@@ -282,8 +282,6 @@ gizchina.com###protag-header_2
 glamour.com##.cns-ads-stage
 globalnews.ca##.l-headerAd__container, .story-ad
 goldbelly.com###talkable-offer
-google.com###ad, #ad-label
-google.com##:xpath(.//*[@id='gbw']/div/div/div[2]//div[3][@aria-label="promo"])
 gothamist.com##.c-main-header__ad-unit
 govtribe.com,grubstreet.com,newatlas.com,nymag.com,thecut.com,vulture.com,webmd.com##.ad
 gq.com##.article-inline-ad, [class*="ConsumerMarketingUnitThemedWrapper"]
